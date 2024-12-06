@@ -1,0 +1,13 @@
+ID,Name,Category,Price,Quantity,Description
+1,Dress Shirt,Clothes,34.99,100,Men's dress shirt, white
+2,Suit,Clothes,199.99,50,Men's suit, black
+3,Polo Shirt,Clothes,24.99,150,Men's polo shirt, blue
+4,Hoodie,Clothes,34.99,80,Men's hoodie, black
+5,Sweater,Clothes,29.99,120,Men's sweater, navy blue
+6,Blouse,Clothes,28.99,110,Women's blouse, floral print
+7,Maxi Dress,Clothes,49.99,70,Women's maxi dress, black
+8,High Waisted Jeans,Clothes,44.99,60,Women's high waisted jeans, blue
+9,Sneakers,Footwear,59.99,120,Men's sneakers, white
+10,High Heels,Footwear,49.99,70,Women's high heels, black
+11,Running Shoes,Footwear,79.99,90,Men's running shoes, gray
+12,Dress Shoes,Footwear,89.99,60,Men's dress shoes, black
